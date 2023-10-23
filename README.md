@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cstergiou03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cstergiou03" height="30" width="40" /></a>
-<a href=www.linkedin.com/in/christodoulos-stergiou-4a29a7238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christodoulos (chris) stergiou" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/christodoulos-stergiou-4a29a7238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christodoulos (chris) stergiou" height="30" width="40" /></a>
 <a href="https://instagram.com/christos_stergiouu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christos_stergiouu" height="30" width="40" /></a>
 </p>
 
