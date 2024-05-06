@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<img alt="Coding" width="450" src="https://news-cdn.moonbeam.co/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg">
+<p align="center"><img alt="Coding" width="600" src="https://news-cdn.moonbeam.co/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg"><p>
 <h3 align="center">Studing on Applied Informatics || UoM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstergiou03&label=Profile%20views&color=0e75b6&style=flat" alt="cstergiou03" /> </p>
